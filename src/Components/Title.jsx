@@ -7,7 +7,7 @@ const Title = (props) => {
           <div className='font-mono text-[22px] text-primary'>{props.no}.</div>
           <div className='font-sans text-[28px] font-bold text-primary'>{props.name}</div>
         </div>
-        <hr className='w-[200px] border-[#233554]'/>
+        <hr className='w-[300px] border-[#233554]'/>
     </div>
   )
 }

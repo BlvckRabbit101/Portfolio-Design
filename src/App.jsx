@@ -7,6 +7,7 @@ import GetInToch from './Pages/Contact/GetInToch'
 import Footer from './Pages/Footer/Footer'
 import Worked from './Pages/WorkExperience/Worked'
 import Built from './Pages/Built/Built'
+import OtherProjects from './Pages/OtherProjects/OtherProjects'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <About />
       <Worked />
       <Built />
+      <OtherProjects />
       <GetInToch />
       <Footer />
     </div>
